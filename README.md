@@ -32,3 +32,4 @@ This assignment demonstrates mastery of while loops, for loops, and nested loops
 
 ## AI Assistance
 - AI used for guidance on debugging
+
